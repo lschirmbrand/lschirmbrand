@@ -35,6 +35,8 @@ public class AboutMe(){
 		this.name = "Luca Schirmbrand";
 		this.location = "Heilbronn, Germany";
 		this.username = "lschirmbrand";
+		this.email = "luca.schirmbrand@hotmail.com";
+		this.hobbies = "coding, football, hiking"
 	}
 }
 ```
