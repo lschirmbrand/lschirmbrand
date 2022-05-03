@@ -53,6 +53,9 @@ public class AboutMe(){
   </a>
 </div>
 
+<hr>
+
+<br>
 <p align="center">
   <a href="https://abhigyantrips.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lschirmbrand&show_icons=true&theme=dracula&hide_border=false" />
