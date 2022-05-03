@@ -38,11 +38,14 @@ public class AboutMe(){
 ```
 <hr>
 
-<div align="center">
-<b>Song I could listen to all day</b><br>
+<div align="center" width="100%">
+<b>Song I could listen to all day</b>
+<br>
+<br>
   <a href="https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt?si=1528fa80ae714e6c">
-    <!--<img src="tobedone">-->
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3pf96IFggfQuT6Gafqx2rt?utm_source=generator&theme=0" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+	<img src="https://media0.giphy.com/media/mXbQ2IU02cGRhBO2ye/giphy.gif" width="30%">
+	<img src="https://media.hitparade.ch/cover/big/boney_m-sunny_s_8.jpg" width="30%">
+   	<img src="https://media0.giphy.com/media/mXbQ2IU02cGRhBO2ye/giphy.gif" width="30%">
   </a>
 </div>
 
