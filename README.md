@@ -10,7 +10,7 @@ This is my private GitHub Account, which is currently a collection of projects f
 
 <p>
 <div align="center">
-	<p>Below listed are programming languages I would consider myself very experienced in.</p>
+	<p>Below listed are programming languages I would consider myself experienced in.</p>
 	<div style="background-color:white">
 	  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 	  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
